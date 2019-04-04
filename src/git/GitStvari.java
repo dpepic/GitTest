@@ -1,5 +1,6 @@
 package git;
 
-public class GitStvari {
-
+public class GitStvari 
+{
+	//Prva izmena
 }
